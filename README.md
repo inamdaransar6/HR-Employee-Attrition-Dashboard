@@ -45,5 +45,13 @@ Salary-wise attrition trends
 Job role-based attrition insights
 Interactive slicers for dynamic filtering
 
+## 📊 Dashboard Preview
+![HR Attrition Dashboard](images/dashboard1.png)
+
+![HR Attrition Dashboard](images/dashboard_2.png)
+
+![HR Attrition Dashboard](images/dashboard_3.png)
+
+![HR Attrition Dashboard](images/dashboard_4.png)
 
 
