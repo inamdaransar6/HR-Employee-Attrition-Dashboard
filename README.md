@@ -46,7 +46,7 @@ Job role-based attrition insights
 Interactive slicers for dynamic filtering
 
 ## 📊 Dashboard Preview
-![HR Attrition Dashboard](images/dashboard1.png)
+![HR Attrition Dashboard]("C:\Users\inamd\Downloads\Dashboard1.png")
 
 ![HR Attrition Dashboard](images/dashboard_2.png)
 
